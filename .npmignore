@@ -1,4 +1,4 @@
-.eslint.json
+.eslintrc.json
 .gitignore
 dist/test.d.ts
 dist/test.js
