@@ -35,6 +35,6 @@ Testing:
 ```
 You can edit this file to test specific cases<sup>[3]<sup>
 
-> 1. If it is not provided the size of the returned token will be between 3 and 10
+> 1. If it is not provided the size of the returned token will be between 1 and 10
 > 2. The code output will be different, because... it's random XD
 > 3. This is the script executed by `npm run dev`
