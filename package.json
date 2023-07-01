@@ -1,6 +1,6 @@
 {
   "name": "create-token",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to create random tokens",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,6 @@
     "url": "https://github.com/rykycastilla/create-token"
   },
   "keywords": [
-    "get-token",
     "get-token",
     "random-token",
     "random-key",
